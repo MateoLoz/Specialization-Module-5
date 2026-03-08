@@ -48,6 +48,7 @@ npx playwright test --ui
 
 ## 📂 Project Structure
 
+```
 project-root
 │
 ├── src
@@ -83,6 +84,7 @@ project-root
 │
 ├── playwright.config.js
 └── package.json
+```
 
 ## 📘 Features
 The implemented product features and scenarios are documented in:
